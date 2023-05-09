@@ -3,7 +3,7 @@
 
 -- component page: 
 caption title: **> The Terminal**
-string title-url: /
+string title-url: /index.html
 string cta-text-1: About
 string cta-text-2: Showcase
 string cta-text-3: Showmore
