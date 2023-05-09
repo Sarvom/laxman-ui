@@ -231,7 +231,7 @@ spacing.fixed.px: 250
 role: $inherited.types.copy-regular
 text-align: center
 color: $inherited.colors.cta-tertiary.base
-link: $navbar-desktop
+link: $navbar-desktop.title-url
 
 -- ftd.row:
 align-self: start
